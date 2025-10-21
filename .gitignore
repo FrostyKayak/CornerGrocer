@@ -1,0 +1,18 @@
+# build folders
+x64/
+Debug/
+Release/
+
+# Visual Studio project files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# intermediate and binary files
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Visual Studio settings
+.vs/
